@@ -1,3 +1,5 @@
+<img width="1440" alt="Screenshot 2024-01-10 at 11 36 30 PM" src="https://github.com/Rishabh-code-do/crud_api/assets/85050354/5064aa7c-2aba-4c8c-9576-3027b190edb9">
+<img width="1006" alt="Screenshot 2024-01-10 at 11 33 40 PM" src="https://github.com/Rishabh-code-do/crud_api/assets/85050354/292e938d-8503-44fc-83bb-7ec62519e3b5">
 Crud API 
 
 Deployed on Python Anywhere
