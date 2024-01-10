@@ -38,4 +38,6 @@ Now pass the token by attaching to the header and send to boxes api
 <img width="1440" alt="Screenshot 2024-01-10 at 11 36 30 PM" src="https://github.com/Rishabh-code-do/crud_api/assets/85050354/5064aa7c-2aba-4c8c-9576-3027b190edb9">
 
 For filter:
+<img width="1006" alt="Screenshot 2024-01-10 at 11 42 33 PM" src="https://github.com/Rishabh-code-do/crud_api/assets/85050354/33c6feba-9fb8-4ff6-b6f7-d59af4bced4f">
+
 
