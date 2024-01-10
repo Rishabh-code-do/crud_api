@@ -27,4 +27,5 @@ Some user details are:
 3. Username:Rjjjj Password:Pops@123 (not a staff user)
 
 You can create your own user with registration api endpoint
+<img width="1006" alt="Screenshot 2024-01-10 at 11 32 53 PM" src="https://github.com/Rishabh-code-do/crud_api/assets/85050354/f1e7facf-9762-4408-a1ae-4b8dda0392a9">
 
