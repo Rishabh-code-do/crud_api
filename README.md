@@ -14,11 +14,11 @@ https://rishabhrj.pythonanywhere.com/api/user/ => Api endpoint for current user 
 
 https://rishabhrj.pythonanywhere.com/api/boxes/ => Api endpoint for list of boxes and adding boxes (get and post)
 
-https://rishabhrj.pythonanywhere.com/api/boxes/<int:id> => Api endpoint for updating box details
+https://rishabhrj.pythonanywhere.com/api/boxes/(int:id) => Api endpoint for updating box details
 
 https://rishabhrj.pythonanywhere.com/api/my-boxes/ => Api endpoint for user boxes
 
-https://rishabhrj.pythonanywhere.com/api/my-boxes/<int:id> => Api endpoint for user boxes delete funtion
+https://rishabhrj.pythonanywhere.com/api/my-boxes/(int:id) => Api endpoint for user boxes delete funtion
 
 Some user details are:
 
